@@ -1,0 +1,1 @@
+web: gunicorn django_ci_cd_heroku.wsgi
