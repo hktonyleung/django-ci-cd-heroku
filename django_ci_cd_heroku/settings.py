@@ -26,7 +26,7 @@ SECRET_KEY = os.environ['SECRET_KEY']
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["https://django-ci-cd-testing.herokuapp.com", "127.0.0.1"]
+ALLOWED_HOSTS = ["django-ci-cd-testing.herokuapp.com", "127.0.0.1"]
 
 
 # Application definition
